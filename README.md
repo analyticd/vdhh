@@ -17,13 +17,9 @@ implemented support for Level 2 Bridged networking and USB Passthrough using
 privileged helpers that performs few configuration tasks, without compromising
 all the system resources.
 
-## Download
+## Path Forward
 
-To Install Veertu Desktop on Mac, please visit [veertu.com](https://veertu.com) and follow updates on twitter @veertu_labs.
-
-## Community
-Join our Slack community to discuss and give feedback
-https://slack.veertu.com/
+Parts of VDHH are being integrated with the QEMU.
 
 ## Building
 
